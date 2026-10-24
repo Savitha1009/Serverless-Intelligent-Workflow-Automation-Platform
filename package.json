@@ -1,0 +1,21 @@
+{
+  "name": "serverless-workflow-platform",
+  "version": "1.0.0",
+  "description": "Serverless Intelligent Workflow Automation Platform with AWS Step Functions, Lambda, Bedrock AI, and DynamoDB",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "install:all": "npm --prefix frontend install"
+  },
+  "keywords": [
+    "serverless",
+    "aws-step-functions",
+    "aws-lambda",
+    "dynamodb",
+    "bedrock-ai",
+    "workflow-automation"
+  ],
+  "author": "",
+  "license": "MIT"
+}
